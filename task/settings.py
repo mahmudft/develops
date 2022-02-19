@@ -150,3 +150,4 @@ CELERY_BEAT_SCHEDULE = {
         "schedule": crontab(hour=23),
     },
 }
+STATIC_ROOT = 'static'
