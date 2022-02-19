@@ -18,3 +18,8 @@ Deployed version on heroku
 ```sh
 https://dynooo.herokuapp.com/
 ```
+
+Postman Collections Link
+```sh
+https://www.postman.com/avionics-cosmonaut-58754428/workspace/developstoday/api/d1b639d4-ead4-4579-9fa5-e10a45476059
+```
